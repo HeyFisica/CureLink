@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872229755163",
+    "project_id": "curelink-252c9",
+    "storage_bucket": "curelink-252c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872229755163:android:53ad623e969004e2f9dbbe",
+        "android_client_info": {
+          "package_name": "com.example.curelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_Hx4RoWdwS8h_6r7dV2Uqx4RuNhcvcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
